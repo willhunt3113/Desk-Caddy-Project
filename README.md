@@ -1,11 +1,11 @@
 # Desk-Caddy-Project
 
 
-[Goal](##Project_goal)
+[Goal](#Project_goal)
 
-[Planning](##Planning)
+[Planning](#Planning)
 
-[Autodesk Inventor](##Autodesk_Inventor)
+[Autodesk Inventor](#Autodesk_Inventor)
 
 
 
