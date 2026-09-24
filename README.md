@@ -1,2 +1,16 @@
 # Desk-Caddy-Project
-Design and 3D print a functional desk caddy
+
+
+[Goal](##Project_goal)
+
+[Planning](##Planning)
+
+
+
+
+
+## Project_goal
+
+The goal of this project was to create a functional desk caddy in Autodesk Inventor. 
+
+## Planning
