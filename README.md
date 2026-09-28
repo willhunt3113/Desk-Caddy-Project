@@ -14,7 +14,7 @@
 
 The goal of this project was to create a functional desk caddy in Autodesk Inventor. 
 
-Some of the requirements for this caddy were 
+Some of the requirements for this caddy were: 
 
 -  Hold pens and/or pencils
 -  Hold scissors or another tall desk tool
