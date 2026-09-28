@@ -16,6 +16,11 @@ The goal of this project was to create a functional desk caddy in Autodesk Inven
 
 Some of the requirements for this caddy were 
 
+-  Hold pens and/or pencils
+-  Hold scissors or another tall desk tool
+-  Include a compartment or way to store sticky notes
+-  Include at least one additional storage area for small objects
+
 
 ![Full instructions](https://github.com/user-attachments/files/32625236/Desk.Caddy.Design.3D.Printing.Project.pdf)
 
