@@ -34,6 +34,6 @@ Second [Design](https://business.walmart.com/ip/Desk-Caddy-Plastic-Storage-Box-f
 
 <img width="640" height="640" alt="98649a14-ff89-4ce3-bdc5-4192f87abb05 d437784561b2ec8f8705428a18385750" src="https://github.com/user-attachments/assets/c0e8eab1-2b11-401b-89fc-c63da7a8c772" />
 
-I liked the height of the walls for this caddy. This design had a compartment for sticky notes which was one of the constraints of the project. 
+I liked the height of the walls for this caddy. This design had a compartment for sticky notes which was one of the constraints of the project. I did not like the raised lip along the edge for this design. 
 
 ## Autodesk_Inventor 
