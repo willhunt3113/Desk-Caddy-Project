@@ -33,12 +33,18 @@ This was the first design that stood out to me from [Wynnfell](https://www.wynnf
 
 <img width="400" height="400" alt="Wynfell Caddy" src="https://github.com/user-attachments/assets/756994db-965d-41fa-a46e-ad715ee08d25" />
 
-I liked the sliding drawer and the compartment for your phone. I plan to add something similar to mine. Something that I did not like was the height of the phone compartment. I want the items in the compartment to be more visible and easy to reach. For my design the walls of my caddy will be at a lower height. 
+I liked the sliding drawer and the compartment for your phone. I plan to add something similar to mine. Something that I did not like was the height of the phone compartment. I want the items in the compartment to be more visible and easy to reach. For my design the the compartments of my caddy will be more shallow to give the user easier access. This design was 225x10x12 mm which will be similar to mine. This design is featured to hold a phone, writing utensils, a stapler, and any small tools that could fit in the compartment. From this design I plan to take the sliding drawer and the phone holder. 
 
 Second [Design](https://business.walmart.com/ip/Desk-Caddy-Plastic-Storage-Box-for-Stationery-Makeup-Office-Supplies-Multi-Compartment-Desktop-Organizer-2-Sizes-Available/20182923660?classType=VARIANT)
 
 <img width="640" height="640" alt="98649a14-ff89-4ce3-bdc5-4192f87abb05 d437784561b2ec8f8705428a18385750" src="https://github.com/user-attachments/assets/c0e8eab1-2b11-401b-89fc-c63da7a8c772" />
 
-I liked the height of the walls for this caddy. This design had a compartment for sticky notes which was one of the constraints of the project. I did not like the raised lip along the edge for this design. 
+I liked the height of the walls for this caddy. This design had a compartment for sticky notes which was one of the constraints of the project. I did not like the raised lip along the edge for this design. This is design was 180.09 x 150.11 x 120.14 mm which again, was similar to the constraints for the project. This design had a compartment for writing utensils, scissors, and post-it notes which were all required for this project. I plan to use the minimalistic design for this project. 
+
+
+### What features make a desk organizer useful and easy to use?
+
+To me accesability is the most important function for a desk caddy. Making sure that the user has acces to all of the tools that they need in a quick mannor is the main function to me. Look is also important for a desk caddy. This is something that the user will looking at throughout the whole day so it must be something that looks good as well. 
+
 
 ## Autodesk_Inventor 
