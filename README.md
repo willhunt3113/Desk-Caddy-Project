@@ -68,9 +68,11 @@ This is the first version of the caddy that I made. I quickly realized that it w
 Full view of new caddy. The left side is meant to hold a phone and post-it notes while the write side is meant to hold writing utensils, scissors, and rulers. The secret compartment can be used to hold small goods such as USB drives. 
 
 <img width="914" height="489" alt="topview" src="https://github.com/user-attachments/assets/78fd8cb4-296f-4cf7-992f-ed21a660f573" />
+
 Top view showing width and length dimensions  
 
 <img width="484" height="305" alt="newcaddy" src="https://github.com/user-attachments/assets/b1266a97-29ff-4a5b-bd5b-543925260b49" />
+
 Side view showing height dimensions
 
 <img width="1026" height="542" alt="engravings" src="https://github.com/user-attachments/assets/a2a126ff-7e4c-419b-997c-244d6f13857d" />
@@ -81,6 +83,10 @@ Engravings hidden in secret compartment
 
 Shows constraint used to be able to raise and lower lid for secret compartment. 
 
+
+<img width="750" height="485" alt="caddydrawing" src="https://github.com/user-attachments/assets/e6f5bb11-44ae-4f01-afcb-58221deaff23" />
+
+Drawing of caddy
 
 ## Design_Reflection 
 
