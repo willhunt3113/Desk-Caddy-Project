@@ -13,6 +13,7 @@
 
 
 ## Project_goal
+<img width="829" height="773" alt="raised caddy" src="https://github.com/user-attachments/assets/db8e3632-569a-4e33-9406-677cbc880017" />
 
 The goal of this project was to create a functional desk caddy in Autodesk Inventor. 
 
@@ -58,11 +59,15 @@ To me accesability is the most important function for a desk caddy. Making sure 
 
 ## Autodesk_Inventor 
 
+<img width="920" height="750" alt="oldcaddy" src="https://github.com/user-attachments/assets/5d616680-3434-40df-bb9a-e1fcfc52077e" />
+
 <img width="978" height="739" alt="CADDY2side" src="https://github.com/user-attachments/assets/6895f41c-95bf-4b54-a714-e5fccad75a83" />
 
 <img width="914" height="489" alt="topview" src="https://github.com/user-attachments/assets/78fd8cb4-296f-4cf7-992f-ed21a660f573" />
 
 <img width="484" height="305" alt="newcaddy" src="https://github.com/user-attachments/assets/b1266a97-29ff-4a5b-bd5b-543925260b49" />
+
+<img width="1026" height="542" alt="engravings" src="https://github.com/user-attachments/assets/a2a126ff-7e4c-419b-997c-244d6f13857d" />
 
 ## Design_Reflection 
 
