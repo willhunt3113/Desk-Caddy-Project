@@ -47,9 +47,9 @@ I liked the height of the walls for this caddy. This design had a compartment fo
 To me accesability is the most important function for a desk caddy. Making sure that the user has access to all of the tools that they need in a quick mannor is the main function to me. Look is also important for a desk caddy. This is something that the user will looking at throughout the whole day so it must be something that looks good as well. A design that I notice for most desk caddys is elevated levels so that everything in visible and in reach. This is something that I will incorporate into my design. A usefull desk caddy has compartments for all of the tools that the user needs. They should be in sight and easily reachable. 
 
 
+## Prototype_and_Test
 
-
-### Design Reflection 
+## Design_Reflection 
 
 1. What problem does your desk caddy solve?
 2. Who is the intended user?
