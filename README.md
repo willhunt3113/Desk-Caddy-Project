@@ -35,7 +35,7 @@ This was the first design that stood out to me from [Wynnfell](https://www.wynnf
 
 <img width="400" height="400" alt="Wynfell Caddy" src="https://github.com/user-attachments/assets/756994db-965d-41fa-a46e-ad715ee08d25" />
 
-I liked the sliding drawer and the compartment for your phone. I plan to add something similar to mine. Something that I did not like was the height of the phone compartment. I want the items in the compartment to be more visible and easy to reach. For my design the the compartments of my caddy will be more shallow to give the user easier access. This design was 225x10x12 mm which will be similar to mine. This design is featured to hold a phone, writing utensils, a stapler, and any small tools that could fit in the compartment. From this design I plan to take the sliding drawer and the phone holder. 
+I liked the sliding drawer and the compartment for your phone. I plan to add something similar to mine. Something that I did not like was the height of the phone compartment. I want the items in the compartment to be more visible and easy to reach. For my design the the compartments of my caddy will be more shallow to give the user easier access. This design was 225x100x120 mm which will be similar to mine. This design is featured to hold a phone, writing utensils, a stapler, and any small tools that could fit in the compartment. From this design I plan to take the sliding drawer and the phone holder. 
 
 Second [Design](https://business.walmart.com/ip/Desk-Caddy-Plastic-Storage-Box-for-Stationery-Makeup-Office-Supplies-Multi-Compartment-Desktop-Organizer-2-Sizes-Available/20182923660?classType=VARIANT)
 
@@ -81,7 +81,7 @@ Engravings hidden in secret compartment
 
 <img width="829" height="773" alt="raised caddy" src="https://github.com/user-attachments/assets/db8e3632-569a-4e33-9406-677cbc880017" />
 
-Shows constraint used to be able to raise and lower lid for secret compartment. 
+Shows secret compartment being raised
 
 
 <img width="750" height="485" alt="caddydrawing" src="https://github.com/user-attachments/assets/e6f5bb11-44ae-4f01-afcb-58221deaff23" />
