@@ -7,6 +7,8 @@
 
 [Autodesk Inventor](#Autodesk_Inventor)
 
+[Reflection](#Design_Reflection)
+
 
 
 
@@ -56,7 +58,11 @@ To me accesability is the most important function for a desk caddy. Making sure 
 
 ## Autodesk_Inventor 
 
-  
+<img width="978" height="739" alt="CADDY2side" src="https://github.com/user-attachments/assets/6895f41c-95bf-4b54-a714-e5fccad75a83" />
+
+<img width="914" height="489" alt="topview" src="https://github.com/user-attachments/assets/78fd8cb4-296f-4cf7-992f-ed21a660f573" />
+
+<img width="954" height="565" alt="side2" src="https://github.com/user-attachments/assets/fa2ae3e3-7d28-4754-b865-7c47a165a3ae" />
 
 ## Design_Reflection 
 
