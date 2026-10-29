@@ -42,12 +42,21 @@ Second [Design](https://business.walmart.com/ip/Desk-Caddy-Plastic-Storage-Box-f
 I liked the height of the walls for this caddy. This design had a compartment for sticky notes which was one of the constraints of the project. I did not like the raised lip along the edge for this design. This is design was 180.09 x 150.11 x 120.14 mm which again, was similar to the constraints for the project. This design had a compartment for writing utensils, scissors, and post-it notes which were all required for this project. I plan to use the minimalistic design for this project. 
 
 
+### Caddy_Sketches
+
+<img width="3212" height="2432" alt="caddysketch" src="https://github.com/user-attachments/assets/12db1032-3531-4ab9-94bc-f9bd3ba0c2f2" />
+
+Pictured above are the two sketch ideas that I had. The first sketch is a taller design and features a sliding drawer on the bottom. The second design shows a slightly wider and shorter design that has more compartments. Both of these designs are able to hold all of the supplies required for this assignment. I plan to use the first sketch because it seems less cluttered and more functional with the sliding drawer. 
+
+
 ### What features make a desk organizer useful and easy to use?
 
 To me accesability is the most important function for a desk caddy. Making sure that the user has access to all of the tools that they need in a quick mannor is the main function to me. Look is also important for a desk caddy. This is something that the user will looking at throughout the whole day so it must be something that looks good as well. A design that I notice for most desk caddys is elevated levels so that everything in visible and in reach. This is something that I will incorporate into my design. A usefull desk caddy has compartments for all of the tools that the user needs. They should be in sight and easily reachable. 
 
 
-## Prototype_and_Test
+## Autodesk_Inventor 
+
+  
 
 ## Design_Reflection 
 
@@ -61,4 +70,4 @@ To me accesability is the most important function for a desk caddy. Making sure 
 8. What would you change in a second version?
 
 
-## Autodesk_Inventor 
+
