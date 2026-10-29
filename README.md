@@ -44,7 +44,21 @@ I liked the height of the walls for this caddy. This design had a compartment fo
 
 ### What features make a desk organizer useful and easy to use?
 
-To me accesability is the most important function for a desk caddy. Making sure that the user has acces to all of the tools that they need in a quick mannor is the main function to me. Look is also important for a desk caddy. This is something that the user will looking at throughout the whole day so it must be something that looks good as well. 
+To me accesability is the most important function for a desk caddy. Making sure that the user has access to all of the tools that they need in a quick mannor is the main function to me. Look is also important for a desk caddy. This is something that the user will looking at throughout the whole day so it must be something that looks good as well. A design that I notice for most desk caddys is elevated levels so that everything in visible and in reach. This is something that I will incorporate into my design. A usefull desk caddy has compartments for all of the tools that the user needs. They should be in sight and easily reachable. 
+
+
+
+
+### Design Reflection 
+
+1. What problem does your desk caddy solve?
+2. Who is the intended user?
+3. What existing products influenced your design?
+4. What was the most difficult part of the design?
+5. What Inventor tools did you use?
+6. How did you design the caddy for 3-D printing?
+7. What did you learn from testing your prototype?
+8. What would you change in a second version?
 
 
 ## Autodesk_Inventor 
