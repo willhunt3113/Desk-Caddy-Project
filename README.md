@@ -61,13 +61,21 @@ To me accesability is the most important function for a desk caddy. Making sure 
 ## Design_Reflection 
 
 1. What problem does your desk caddy solve?
+  My desk caddy solves the issue of an unorganized desk. It can sort your supplies so that they are easy and accessible to reach. 
 2. Who is the intended user?
+  The intended user is anyone who wants to sort their supplies
 3. What existing products influenced your design?
+  The two designs from my planning earlier were my inspirations for my design. 
 4. What was the most difficult part of the design?
+   The most difficult part was setting up the secret compartment. I was having trouble using the constraints so that the part would stay in the right place. 
 5. What Inventor tools did you use?
 6. How did you design the caddy for 3-D printing?
+    I made sure that it did not have any overhanging parts. 
 7. What did you learn from testing your prototype?
+    I did not think about how the sliding drawer would work and realized that the overhand would not be able to be 3d printed. This required me to make a second design with a secret compartment instead of a sliding drawer. 
 8. What would you change in a second version?
+   I would have spent more time on the planning out the sliding drawer. This took the most time of the project because I had to restart my caddy.
+    
 
 
 
