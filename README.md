@@ -62,7 +62,7 @@ To me accesability is the most important function for a desk caddy. Making sure 
 
 <img width="914" height="489" alt="topview" src="https://github.com/user-attachments/assets/78fd8cb4-296f-4cf7-992f-ed21a660f573" />
 
-<img width="954" height="565" alt="side2" src="https://github.com/user-attachments/assets/fa2ae3e3-7d28-4754-b865-7c47a165a3ae" />
+<img width="484" height="305" alt="newcaddy" src="https://github.com/user-attachments/assets/b1266a97-29ff-4a5b-bd5b-543925260b49" />
 
 ## Design_Reflection 
 
