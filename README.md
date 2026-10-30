@@ -75,14 +75,13 @@ Top view showing width and length dimensions
 
 Side view showing height dimensions
 
-<img width="1026" height="542" alt="engravings" src="https://github.com/user-attachments/assets/a2a126ff-7e4c-419b-997c-244d6f13857d" />
-
-Engravings hidden in secret compartment
-
 <img width="829" height="773" alt="raised caddy" src="https://github.com/user-attachments/assets/db8e3632-569a-4e33-9406-677cbc880017" />
 
 Shows secret compartment being raised
 
+<img width="1026" height="542" alt="engravings" src="https://github.com/user-attachments/assets/a2a126ff-7e4c-419b-997c-244d6f13857d" />
+
+Engravings hidden in secret compartment
 
 <img width="750" height="485" alt="caddydrawing" src="https://github.com/user-attachments/assets/e6f5bb11-44ae-4f01-afcb-58221deaff23" />
 
